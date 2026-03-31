@@ -1,4 +1,4 @@
-# HULA Platform — Review & Architectural Remediation Strategy
+# HULA Platform — Review & Architectural Remediation 
 ---
 
 ## Table of Contents
